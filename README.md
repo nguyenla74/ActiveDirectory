@@ -32,7 +32,7 @@ Enter user's info and click "Find Now":  <br/>
 <img src="https://i.imgur.com/X1OoE7b.png" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-User is found! Now you can help clients with their help desk request! Good luck :):  <br/>
+User is found! Now you can help clients with their help desk request! Good luck :)  <br/>
 <img src="https://i.imgur.com/7IiKx35.jpeg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
